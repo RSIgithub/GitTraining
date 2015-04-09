@@ -1,8 +1,4 @@
 Si ton tonton tond ton tonton ton tonton sera tondu!
 4ème commit
-<<<<<<< HEAD
 c'est la fête sur la 3ème ligne
-=======
 
-voleur!
->>>>>>> origin/master
