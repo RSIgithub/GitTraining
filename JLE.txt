@@ -1,3 +1,8 @@
 Si ton tonton tond ton tonton ton tonton sera tondu!
+<<<<<<< HEAD
 
 Je suis un voleur de citation
+=======
+erreur line
+cette fois c'est bon je commit
+>>>>>>> origin/master
