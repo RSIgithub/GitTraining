@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+.git'Art ! éclectique
+C'est de la balle !
+=======
+.git'Art !
+>>>>>>> parent of 1012ca9... Modif1
