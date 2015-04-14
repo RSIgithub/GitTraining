@@ -1,1 +1,2 @@
 .git'Art !
+The art of Git
