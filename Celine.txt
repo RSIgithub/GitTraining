@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello!
 
 Nouvelle modif2
+=======
+Hello!
+>>>>>>> parent of 343939b... Ajout ligne
